@@ -6,7 +6,7 @@ The reason behind choosing this dataset is According to the World Health Organiz
 The Report is organized as follows:
 
 1.A breif descripition of the datset used/Data Manipulation
-2.Data Cleaning and Data Exploration//
+2.Data Cleaning and Data Exploration        
 3.A detail view of Bayesian Model/CPT
 4.Independencies
 5.Markov Blanket and Active Trails
